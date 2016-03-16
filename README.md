@@ -12,6 +12,7 @@
 
 - Kim Crayton (Host, [Twitter](https://twitter.com/KimCrayton1), [GitHub](https://github.com/kmcrayton7))
 - Gregor Martynus (Host, [Twitter](https://twitter.com/gr2m), [GitHub](https://github.com/gr2m))
+- Stephanie McCaster 
 
 If you are coming, [add yourself with a Pull Request](https://github.com/welcome-to-open-source/atlanta/issues/1) :)
 
